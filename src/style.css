@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.b{
+    --tw-bg-opacity: 1;
+    background-color: rgb(212 212 216 / var(--tw-bg-opacity));
+    height:100px;
+    width: 100px;
+    border: 3px solid white;
+    /* background-color: whitesmoke; */
+    margin: 0px;
+    color:whitesmoke;
+    font-size:50px;
+    
+}
